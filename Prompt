@@ -1,3 +1,7 @@
+npx shadcn@latest add "https://v0.dev/chat/b/b_lxiIpb9RVwt?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..moaD_myq8BOAHtWX.bBSp-V2wo45V063q-9ajFIMB8dcOWa_T1dluoY0Q5SbWAKSmUiwhf9FG5o0.opgpcZkaCV2f2LWxCmBWBw"
+
+
+
 > **Project Request:**
 > Create a **Derma Clinic Management System** using **Next.js** only (no backend; static data in JavaScript). The system should include the following features:
 >Clinic Name is SIGMA Clinic
