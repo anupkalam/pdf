@@ -1,0 +1,45 @@
+> **Project Request:**
+> Create a **Derma Clinic Management System** using **Next.js** only (no backend; static data in JavaScript). The system should include the following features:
+>Clinic Name is SIGMA Clinic
+> #### 🏥 Patient Management:
+>
+> * A **form** to add a patient's details (name, age, contact, condition, etc.) when they visit the clinic.
+> * A **data table component** to display a list of all patients.
+> * Use **static patient data** for now (pre-filled via JavaScript).
+>
+> #### 📅 Appointment Functionality:
+>
+> * Allow users to **schedule/view appointments** for patients (use static data).
+> * Show appointment details like date, time, and assigned doctor.
+>
+> #### 🧴 Derma Product Inventory:
+>
+> * Maintain a list of skincare products.
+> * Show whether each product is **available or unavailable** (with status toggle).
+>
+> #### 📊 Dashboard:
+>
+> * Create a **dashboard** showing:
+>
+>   * Stat cards for:
+>
+>     * **Total Patients**
+>     * **Daily Patient Count**
+>     * **Weekly Patient Count**
+>     * **Monthly Patient Count**
+>   * **Charts** (bar or pie) for visualizing daily patient counts over the week.
+>   * Use a clean and **visually appealing UI**.
+>
+> #### 📌 Design & Layout:
+>
+> * Include a **responsive sidebar and header** (if necessary for navigation).
+> * Use components for layout (e.g., dashboard, patients, appointments, products).
+>
+> #### 📋 Notes:
+>
+> * All data should be hardcoded/static using JavaScript.
+> * No backend or API integration.
+> * Focus on a **well-structured, clean UI** using modern design (Tailwind CSS or any styling you prefer).
+> * You may **add additional features or UI elements** if they enhance usability or visualization.
+
+---
